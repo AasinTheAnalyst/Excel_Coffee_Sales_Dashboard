@@ -70,6 +70,8 @@ This Excel-based dashboard visualizes coffee sales data using three connected da
 ## 📬 Contact
 
 **Aasin Dubey**  
+📧 aasindubey@gmail.com  
+📍 Nagpur, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/aasin-dubey/)  
 
 ---
