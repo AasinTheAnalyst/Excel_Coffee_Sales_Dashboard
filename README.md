@@ -62,14 +62,14 @@ This Excel-based dashboard visualizes coffee sales data using three connected da
   
 ## 📎 Project Files
 
-- **Main Excel File**: [`Coffee_Sales_Dashboard.xlsx`](./Coffee_Sales_Dashboard.xlsx)
-- **Dashboard Preview Image**: ![Dashboard Preview](./dashboard_preview.png)
+- **Main Excel File**: [`Coffee_Sales_Dashboard.xlsx`](https://github.com/AasinTheAnalyst/Excel_Coffee_Sales_Dashboard/blob/3292548ddf62c50d4fafcdbc6def10b87010fb38/CoffeeBeansSales_Dashboard.xlsx)
+- **Dashboard Preview Image**: ![Dashboard Preview](https://github.com/AasinTheAnalyst/Excel_Coffee_Sales_Dashboard/blob/3292548ddf62c50d4fafcdbc6def10b87010fb38/DashBoard_Image.png)
 
 ---
 
 ## 📬 Contact
 
 **Aasin Dubey**  
-🔗 [LinkedIn](#) • [GitHub](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aasin-dubey/)  
 
 ---
